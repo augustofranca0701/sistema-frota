@@ -1,0 +1,14 @@
+# Exclui a pasta de dependências do Node.js
+/node_modules
+# Exclui o diretório de saída (compilação do TS)
+/dist
+# Exclui logs
+*.log
+# Exclui arquivos de configuração sensíveis (se existissem)
+.env
+# Arquivos de editores
+.vscode
+.idea
+# Arquivos de cache do npm
+npm-debug.log*
+yarn-error.log
