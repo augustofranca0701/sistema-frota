@@ -2,8 +2,6 @@
   "compilerOptions": {
     "module": "CommonJS",
     "target": "ES2020",
-    "rootDir": "./src",
-    "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
