@@ -11,7 +11,7 @@ O sistema simula o gerenciamento de uma frota de veículos, incluindo a criaçã
 ### 1. Clone o Repositório
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone https://github.com/augustofranca0701/sistema-frota
 cd sistema-frota
 ```
 
@@ -103,3 +103,4 @@ frota.listarFrota();
 
 Este projeto é de uso livre para fins de estudo e aprendizado.
 Sinta-se à vontade para modificar, melhorar e compartilhar. 🚀
+
